@@ -6,9 +6,7 @@ I wrote an app where a user can insert members into Firebase, they can also dele
 
 My purpose for writing this software was to provide users who work in groups to find available times for their group members. This would make coordinating meeting times much easier. I felt that an app using Firebase would be a user friendly platform.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Group Coordinator Demo Video](https://youtu.be/8cVGoBfShMM)
 
 # Cloud Database
 
